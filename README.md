@@ -24,6 +24,13 @@ The website is hosted publicly on GitHub Pages and can be viewed at:
 
 Built using HTML5, CSS3 (Prologue template by HTML5 UP), JavaScript, and FontAwesome icons. Hosted via GitHub Pages.
 
+## Credits
+
+This website was built using a customized version of the **Prologue** template by [HTML5 UP](https://html5up.net), originally created by [@ajlkn](https://twitter.com/ajlkn).  
+The original template is licensed under the [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
+
+**This site uses a customized HTML5 UP template and is not intended for reuse or redistribution.**
+
 ---
 
 Thank you for visiting my portfolio!
