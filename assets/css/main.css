@@ -2875,3 +2875,31 @@ input, select, textarea {
 	background-color: #dcdcdc;
 	cursor: default;
 	}
+
+/* projects */
+
+	#projects .item {
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	border-radius: 12px;
+	overflow: hidden;
+	background: #fff;
+	margin: 12px;
+	padding: 5px;
+	}
+
+	#projects .item:hover {
+	transform: translateY(-8px);
+	box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+	}
+
+	#projects .row {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	}
+
+	#projects h3 {
+	text-align: center;
+	font-weight: 600;
+	margin-bottom: 0.5em;
+	}
